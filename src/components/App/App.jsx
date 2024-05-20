@@ -1,5 +1,5 @@
 import ContactList from "../ContactList/ContactList";
-import SearchBar from "../SearchBar/SearchBar";
+import SearchBar from "../SearchBox/SearchBox";
 import ConctactForm from "../ContactForm/ContactForm";
 
 const App = () => {
